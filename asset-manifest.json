@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/weatherapp/static/css/main.26065102.chunk.css",
-    "main.js": "/weatherapp/static/js/main.78dd245b.chunk.js",
-    "main.js.map": "/weatherapp/static/js/main.78dd245b.chunk.js.map",
-    "runtime-main.js": "/weatherapp/static/js/runtime-main.7cab2815.js",
-    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.7cab2815.js.map",
-    "static/js/2.c31b7a15.chunk.js": "/weatherapp/static/js/2.c31b7a15.chunk.js",
-    "static/js/2.c31b7a15.chunk.js.map": "/weatherapp/static/js/2.c31b7a15.chunk.js.map",
-    "static/js/3.f86f5c89.chunk.js": "/weatherapp/static/js/3.f86f5c89.chunk.js",
-    "static/js/3.f86f5c89.chunk.js.map": "/weatherapp/static/js/3.f86f5c89.chunk.js.map",
+    "main.js": "/weatherapp/static/js/main.b6e6e721.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.b6e6e721.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.0e218e30.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.0e218e30.js.map",
+    "static/js/2.f389657f.chunk.js": "/weatherapp/static/js/2.f389657f.chunk.js",
+    "static/js/2.f389657f.chunk.js.map": "/weatherapp/static/js/2.f389657f.chunk.js.map",
+    "static/js/3.25b18619.chunk.js": "/weatherapp/static/js/3.25b18619.chunk.js",
+    "static/js/3.25b18619.chunk.js.map": "/weatherapp/static/js/3.25b18619.chunk.js.map",
     "index.html": "/weatherapp/index.html",
     "static/css/main.26065102.chunk.css.map": "/weatherapp/static/css/main.26065102.chunk.css.map",
-    "static/js/2.c31b7a15.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.c31b7a15.chunk.js.LICENSE.txt",
+    "static/js/2.f389657f.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.f389657f.chunk.js.LICENSE.txt",
     "static/media/finallogo.f7301e5f.png": "/weatherapp/static/media/finallogo.f7301e5f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7cab2815.js",
-    "static/js/2.c31b7a15.chunk.js",
+    "static/js/runtime-main.0e218e30.js",
+    "static/js/2.f389657f.chunk.js",
     "static/css/main.26065102.chunk.css",
-    "static/js/main.78dd245b.chunk.js"
+    "static/js/main.b6e6e721.chunk.js"
   ]
 }
