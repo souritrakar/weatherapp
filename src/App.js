@@ -188,7 +188,7 @@ this.state.weatherFetchingData.map(data=>{
  <br></br>
 
  <h1 style={{color:"lightpink"}}>Souritra Kar 2020</h1>
- <h2 style={{color:"mediumpurple"}}>Uses: openweathermap.org API</h2>
+ <h2 style={{color:"mediumpurple"}}>Uses : Openweathermap.org API</h2>
       </header>
   
     </div>
